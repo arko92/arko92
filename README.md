@@ -12,15 +12,15 @@ I am Arko from India and have been living in Germany for several years now. A co
 ## Current profession
 #### Fuel Cell Stack Development Engineer, Airbus
 
-### Skills 
+## Skills 
 
 Product development | Software Development | Research | Data Science
 
-### Links 
+## Links 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arko92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/arko-bhattacharjee-115018106//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/arko92/arko92.github.io)  
 
-### Statistics 
+## Statistics 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arko92&show_icons=true)  
 
