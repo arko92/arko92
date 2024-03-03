@@ -25,5 +25,3 @@ Product development | Software Development | Research | Data Science
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arko92&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=arko92)  
-
-![Profile views](https://gpvc.arturio.dev/arko92)  
