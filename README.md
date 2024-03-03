@@ -1,7 +1,7 @@
 ### Hi there 👋, Arko Bhattacharjee
 
 ## Title
-### Computational Physicist / Engineer
+### Computational Physicist & Engineer
 ![Computational Physicist](https://cdn-icons-png.freepik.com/256/4675/4675645.png)
 
 ## Introduction
