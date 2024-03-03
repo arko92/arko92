@@ -2,7 +2,7 @@
 
 ## Title
 ### Computational Physicist / Engineer
-![Computational Physicist](https://github.com/arko92/arko92.github.io/blob/main/banner.png)
+![Computational Physicist](https://cdn-icons-png.freepik.com/256/4675/4675645.png)
 
 ## Introduction
 <div align="justify">
