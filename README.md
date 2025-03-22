@@ -9,11 +9,11 @@ I am Arko from India and have been living in Germany for several years now. A co
 </div>
 
 ## Current profession
-#### Fuel Cell Stack Development Engineer, Airbus
+#### Fuel Cell System Development Engineer, Airbus
 
 ## Skills 
 
-Product development | Software Development | Research | Data Science
+Product development | Software Development | Web Development | Algorithm Development | Automation | Research | Data Science
 
 ## Links 
 
