@@ -62,14 +62,13 @@ and research environments.
 
 ## Project Highlights
 
-| Project | Description | Key Technology used|
+| Project | Description | Key Technology Used|
 |:---|:---|:---|
 | [**BoilerDrumSimulator**](https://github.com/arko92/BoilerDrumSimulator) | Boiler-drum simulation with AI-assisted water-level prediction. | Digital Twin · Simulation · C# |
 | [**OfflineRagChatbot**](https://github.com/arko92/OfflineRagChatbot) | Offline RAG chatbot for local document retrieval and question answering. | Generative AI · RAG · C# |
 | [**TwinFit**](https://github.com/arko92/TwinFit) | Prototype exploring a personal health Digital Twin concept. | Digital Twin · JavaScript |
 | [**car-dealership-app**](https://github.com/arko92/car-dealership-app) | Full-stack dealership application built with React and Django. | React · Django · Web |
 | [**Sentiment_analyzer**](https://github.com/arko92/Sentiment_analyzer) | Sentiment-analysis application built with Python and Flask. | NLP · Python · Flask |
-| [**green-web-shop**](https://github.com/arko92/green-web-shop) | Simple e-commerce application built with React. | React · Frontend |
 
 
 
