@@ -28,39 +28,37 @@ and research environments.
 
 *A selection of tools and technologies I have worked with across professional, academic, and personal projects.*
 
-### Programming
-`Python` · `C#` · `C++` · `C` · `Fortran` · `MATLAB` · `JavaScript` · `Java` · `Go` · `Shell`
+### Software Development
 
-### Backend & APIs
-**Frameworks:** `.NET Core` · `Django` · `Flask` · `Node.js`  
-**Development:** `REST APIs` · `Service Integration` · `Microservices` · `Modular Backend Services` · `Serverless Applications`
+**Languages:** `Python` · `C#` · `C++` · `C` · `Fortran` · `MATLAB` · `JavaScript` · `Java` · `Go` · `Shell`  
 
-### Generative AI & Machine Learning
+**Backend & APIs:** `.NET Core` · `Django` · `Flask` · `Node.js` · `REST APIs` · `Service Integration` · `Microservices` · `Modular Backend Services` · `Serverless Applications`  
+
+**Frontend:** `React` · `HTML5` · `CSS3` · `Bootstrap`  
+
+**Architecture:** `Object-Oriented Programming` · `SOLID Principles` · `Clean Architecture` · `Modular Design` · `Design Patterns` · `UML`
+
+### AI, Machine Learning & Data
+
 **Frameworks:** `PyTorch` · `Keras` · `Hugging Face` · `LangChain`  
-**Topics:** `Large Language Models` · `Transformers` · `RAG` · `AI Agents` · `Prompt Engineering` · `Fine-Tuning` · `Natural Language Processing` · `Machine Learning`
+
+**AI & ML:** `Large Language Models` · `Transformers` · `RAG` · `AI Agents` · `Prompt Engineering` · `Fine-Tuning` · `Natural Language Processing` · `Machine Learning`  
+
+**Data & Analytics:** `SQL` · `BigQuery` · `Tableau` · `RStudio` · `Simulation Data Analysis` · `Predictive Modelling` · `Engineering Data Processing` · `Data Validation`
 
 ### Scientific Computing & Simulation
+
 **Methods:** `Numerical Methods` · `Solver Development` · `Parallel Computing` · `High-Performance Computing` · `CFD` · `Multiphysics Simulation` · `System-Level Modelling` · `Verification & Validation` · `Performance Profiling`  
+
 **Tools:** `STAR-CCM+` · `Amesim` · `COMSOL` · `Abaqus` · `ANSYS` · `OpenFOAM` · `3DEXPERIENCE` · `HyperWorks` · `Simulink` · `Simscape` · `Dymola / Modelica` · `FMU` · `APDL` · `ParaView`
 
-### DevOps, Cloud & Platforms
-**Platforms:** `Docker` · `Kubernetes` · `OpenShift` · `AWS` · `Linux`  
-**Delivery:** `Git` · `GitHub Actions` · `Azure DevOps` · `CI/CD` · `Tekton`  
-**Practices:** `Containerized Deployment` · `Monitoring & Observability` · `Application Security`
+### DevOps, Cloud & Delivery
 
-### Data & Analytics
-**Tools:** `SQL` · `BigQuery` · `Tableau` · `RStudio`  
-**Applications:** `Simulation Data Analysis` · `Predictive Modelling` · `Engineering Data Processing` · `Data Validation`
+**Platforms:** `Docker` · `Kubernetes` · `OpenShift` · `AWS` · `Linux` . `Prometheus` · `Grafana` 
 
-### Frontend
-`React` · `HTML5` · `CSS3` · `Bootstrap`
+**Delivery:** `Git` · `GitHub Actions` · `Azure DevOps` · `CI/CD` · `Tekton` · `Containerized Deployment` · `Monitoring & Observability` · `Application Security`  
 
-### Architecture, Testing & Delivery
-**Architecture:** `Object-Oriented Programming` · `SOLID Principles` · `Clean Architecture` · `Modular Design` · `Design Patterns` · `UML`  
-**Development:** `Rapid Prototyping` · `Proof-of-Concept Development` · `Performance Optimization` · `Technical Documentation`  
-**Testing:** `Unit Testing` · `Integration Testing` · `TDD` · `BDD`  
-**Delivery:** `Agile` · `SAFe` · `Scrum`
-
+**Testing & Ways of Working:** `Unit Testing` · `Integration Testing` · `TDD` · `BDD` · `Rapid Prototyping` · `Proof-of-Concept Development` · `Performance Optimization` · `Technical Documentation` · `Agile` · `SAFe` · `Scrum`
 
 ## Project Highlights
 
