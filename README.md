@@ -11,7 +11,6 @@ automation workflows, backend services, and AI-based applications.
 I have worked with multidisciplinary and distributed teams in both industrial
 and research environments.
 
-
 ## What I Work On
 
 | Area | Focus |
@@ -24,7 +23,7 @@ and research environments.
 | **Research & Prototyping** | Proofs of concept, numerical validation, and applied industrial R&D |
 
 
-## Technical Toolkit
+## What I Work With
 
 *A selection of tools and technologies I have worked with across professional, academic, and personal projects.*
 
@@ -60,6 +59,14 @@ and research environments.
 
 **Testing & Ways of Working:** `Unit Testing` · `Integration Testing` · `TDD` · `BDD` · `Rapid Prototyping` · `Proof-of-Concept Development` · `Performance Optimization` · `Technical Documentation` · `Agile` · `SAFe` · `Scrum`
 
+## How I Work
+
+- I prefer simple and maintainable solutions.
+- I value clear documentation and reproducible workflows.
+- I try to validate models and software against real engineering requirements.
+- I enjoy working with people from different technical backgrounds.
+- I like learning new tools when they are useful for solving a problem.
+
 ## Project Highlights
 
 | Project | Description | Key Technology Used|
@@ -70,24 +77,12 @@ and research environments.
 | [**car-dealership-app**](https://github.com/arko92/car-dealership-app) | Full-stack dealership application built with React and Django. | React · Django · Web |
 | [**Sentiment_analyzer**](https://github.com/arko92/Sentiment_analyzer) | Sentiment-analysis application built with Python and Flask. | NLP · Python · Flask |
 
-
-
 ## Professional Certifications
 
 | Certification | Key Topics Covered | Credential |
 |:---|:---|:---|
 | **IBM Generative AI Engineering Professional Certificate** | LLMs, transformers, PyTorch, Hugging Face, RAG, LangChain, AI agents, and fine-tuning | [![Verify](https://img.shields.io/badge/Verify-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/professional-cert/DACP6R8GM2II) |
 | **IBM Applied DevOps Engineering Professional Certificate** | Agile, microservices, Docker, Kubernetes, OpenShift, testing, CI/CD, security, and observability | [![Verify](https://img.shields.io/badge/Verify-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/professional-cert/EAPOLH2GITJO) |
-
-
-
-## How I Work
-
-- I prefer simple and maintainable solutions.
-- I value clear documentation and reproducible workflows.
-- I try to validate models and software against real engineering requirements.
-- I enjoy working with people from different technical backgrounds.
-- I like learning new tools when they are useful for solving a problem.
 
 
 ## Connect
